@@ -1,0 +1,28 @@
+{
+    "cameras": {
+      "north": {
+        "source": 0,
+        "position": "north",
+        "roi": [0, 0, 640, 480]
+      },
+      "south": {
+        "source": 1,
+        "position": "south",
+        "roi": [0, 0, 640, 480]
+      },
+      "east": {
+        "source": 2,
+        "position": "east",
+        "roi": [0, 0, 640, 480]
+      },
+      "west": {
+        "source": 3,
+        "position": "west",
+        "roi": [0, 0, 640, 480]
+      }
+    },
+    "intersection": {
+      "name": "Cruzamento Principal",
+      "location": "Centro"
+    }
+  }
